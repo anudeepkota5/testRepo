@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="15" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24340" started-at="2019-11-04T12:11:30Z" finished-at="2019-11-04T12:11:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24340" started-at="2019-11-04T12:11:30Z" finished-at="2019-11-04T12:11:54Z">
+      <class name="com.APITesting.NewTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="init" is-config="true" duration-ms="175" started-at="2019-11-04T12:11:30Z" finished-at="2019-11-04T12:11:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="4196" started-at="2019-11-04T12:11:31Z" data-provider="users" finished-at="2019-11-04T12:11:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS114]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1520" started-at="2019-11-04T12:11:35Z" data-provider="users" finished-at="2019-11-04T12:11:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS115]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1550" started-at="2019-11-04T12:11:36Z" data-provider="users" finished-at="2019-11-04T12:11:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS116]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1450" started-at="2019-11-04T12:11:38Z" data-provider="users" finished-at="2019-11-04T12:11:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS117]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1511" started-at="2019-11-04T12:11:39Z" data-provider="users" finished-at="2019-11-04T12:11:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS118]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1437" started-at="2019-11-04T12:11:41Z" data-provider="users" finished-at="2019-11-04T12:11:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS119]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1432" started-at="2019-11-04T12:11:42Z" data-provider="users" finished-at="2019-11-04T12:11:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS120]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1532" started-at="2019-11-04T12:11:44Z" data-provider="users" finished-at="2019-11-04T12:11:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS121]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1503" started-at="2019-11-04T12:11:45Z" data-provider="users" finished-at="2019-11-04T12:11:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS122]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1431" started-at="2019-11-04T12:11:47Z" data-provider="users" finished-at="2019-11-04T12:11:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1467" started-at="2019-11-04T12:11:48Z" data-provider="users" finished-at="2019-11-04T12:11:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS124]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1462" started-at="2019-11-04T12:11:50Z" data-provider="users" finished-at="2019-11-04T12:11:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS125]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1541" started-at="2019-11-04T12:11:51Z" data-provider="users" finished-at="2019-11-04T12:11:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS126]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="users(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="users" duration-ms="1459" started-at="2019-11-04T12:11:53Z" data-provider="users" finished-at="2019-11-04T12:11:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AS127]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- users -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.APITesting.NewTest@3bfdc050]" name="teardown" is-config="true" duration-ms="339" started-at="2019-11-04T12:11:54Z" finished-at="2019-11-04T12:11:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.APITesting.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
