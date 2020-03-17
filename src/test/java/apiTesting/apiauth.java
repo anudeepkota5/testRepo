@@ -13,6 +13,7 @@ public class apiauth {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+//test
 		RestAssured.baseURI = "http://restapi.demoqa.com/authentication/CheckForAuthentication";
 //		PreemptiveBasicAuthScheme auth = new PreemptiveBasicAuthScheme();
 //		auth.setUserName("ToolsQA");
